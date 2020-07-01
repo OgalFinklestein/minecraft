@@ -1,4 +1,4 @@
-#Island Biomes#
+# Island Biomes #
 
 **Tested with Minecraft Linux Java Edition 1.16.1**
 
@@ -10,5 +10,5 @@ A whole village by itself
 3 biomes and a village as an island
 ![](./screenshot_x=0377,z=0586.png)
 
-The Eroded Badlands, as an island ... VERY TALL.
+The Eroded Badlands, as an island ... a VERY TALL island.
 ![](./eroded_badland_island.png)
